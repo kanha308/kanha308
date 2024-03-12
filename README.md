@@ -1,5 +1,5 @@
 ![logo](https://github.com/kanha308/kanha308/blob/main/Blue%20and%20White%20Modern%20Marketing%20Manager%20LinkedIn%20banner.png)
-<h1 align="center">Hi 👋, I'm Soumya Ranjan Rana</h1>
+<h1 align="center">Hi 👋, I'm Soumya Ranjan </h1>
 <h3 align="center">I 'm a freasher Web Developer ,Passionate about Crafting Engaging Web Experiences" or "Dedicated to Learning and Implementing Modern Web Technologies."</h3>
 
 <img align="right" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Girl in a jacket" width="400" height="400">
