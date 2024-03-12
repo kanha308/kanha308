@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Rana</h1>
 <h3 align="center">I 'm a freasher Web Developer ,Passionate about Crafting Engaging Web Experiences" or "Dedicated to Learning and Implementing Modern Web Technologies."</h3>
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw2A7zdGUcDuJqRK3La3HkbZ&ust=1710309916789000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjy3KyU74QDFQAAAAAdAAAAABAJ" alt="Girl in a jacket" width="400" height="400">
+<img align="right" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Girl in a jacket" width="400" height="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanha308&label=Profile%20views&color=0e75b6&style=flat" alt="kanha308" /> </p>
